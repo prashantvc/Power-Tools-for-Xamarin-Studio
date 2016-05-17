@@ -11,5 +11,5 @@ using Mono.Addins.Description;
 [assembly: AddinName("PowerTools")]
 [assembly: AddinCategory("IDE extensions")]
 [assembly: AddinDescription("PowerTools")]
-[assembly: AddinAuthor("prashant")]
+[assembly: AddinAuthor("Prashant Cholachagudda")]
 
